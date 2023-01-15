@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74CA-3062
+
+ Directory of C:\Users\patry\Desktop\2022 Pyton programowanie - studia podyplomowe\006. Zjazd nr 003, gr. 2 (14-15.01.2023)\2023.01.15_Python_obiektowe
+
+15.01.2023  13:10                 0 new.txt
+               1 File(s)              0 bytes
+
+     Total Files Listed:
+               1 File(s)              0 bytes
+               0 Dir(s)  134ÿ703ÿ210ÿ496 bytes free
